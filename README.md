@@ -47,8 +47,11 @@ To install the required packages, run the following command:
 To run the project, open titanic_survival_prediction.ipynb in Jupyter Notebook and run the cells in order. The notebook contains the following sections:
 
 Exploratory Data Analysis (EDA)
+
 Data Preprocessing
+
 Model Training and Evaluation
+
 Model Comparison
 
 The EDA section includes visualizations of the dataset to gain insights into the relationships between the various features and the target variable (survival). The Data Preprocessing section includes cleaning and transforming the data to prepare it for model training. The Model Training and Evaluation section includes training several machine learning models on the preprocessed data and evaluating their performance using various metrics. Finally, the Model Comparison section compares the performance of the different models and selects the best one for the task.
